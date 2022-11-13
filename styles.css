@@ -31,6 +31,8 @@ img {
 
 #nav-ul {
     display: flex;
+    justify-content: center;
+    width: 35vw;
     gap: 1rem;
 }
 
