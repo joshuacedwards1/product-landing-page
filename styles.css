@@ -73,6 +73,8 @@ form {
 
 input[type="email"] {
     padding: 0.2rem;
+    border: 1px solid #302f2f;
+    border-radius: 4px;
 }
 
 input[type="submit"] {
