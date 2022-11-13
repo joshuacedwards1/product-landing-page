@@ -21,7 +21,10 @@ figure {
 
 #nav-ul {
     display: flex;
-    padding: 0;
-    list-style: none;
     gap: 1rem;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
 }
