@@ -18,3 +18,10 @@ header {
 figure {
     margin: 0 auto 0 0;
 }
+
+ul {
+    display: flex;
+    padding: 0;
+    list-style: none;
+    gap: 1rem;
+}
