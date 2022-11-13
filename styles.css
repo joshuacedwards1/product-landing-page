@@ -21,6 +21,7 @@ header {
 }
 
 figure {
+    max-width: 60%;
 }
 
 img {
