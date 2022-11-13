@@ -19,6 +19,7 @@ header {
     min-height: 4rem;
     justify-content: space-around;
     align-items: center;
+    background-color: #eeeeee;
 }
 
 figure {
