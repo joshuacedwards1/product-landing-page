@@ -74,3 +74,13 @@ form {
 input[type="email"] {
     padding: 0.2rem;
 }
+
+input[type="submit"] {
+    width: 80%;
+    margin: 0 auto;
+    padding: 0.3rem;
+    background-color: rgb(48, 47, 47);
+    color: #fafafa;
+    border: 1px solid rgb(48, 47, 47);
+    border-radius: 4px;
+}
