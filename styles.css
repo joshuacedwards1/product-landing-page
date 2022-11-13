@@ -33,10 +33,9 @@ img {
 
 #nav-ul {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     padding-top: 0.2rem;
     width: 35vw;
-    gap: 8rem;
 }
 
 ul {
