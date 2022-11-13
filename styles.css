@@ -10,7 +10,7 @@ header {
     position: fixed;
     top: 0;
     width: 98%;
-    min-height: 75px;
+    min-height: 4rem;
     justify-content: space-around;
     align-items: center;
 }
