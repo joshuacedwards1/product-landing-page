@@ -62,3 +62,11 @@ main {
     margin: 0 auto;
     text-align: center;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: 0.5rem auto;
+    gap: 0.5rem;
+}
