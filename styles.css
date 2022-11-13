@@ -70,3 +70,7 @@ form {
     margin: 0.5rem auto;
     gap: 0.5rem;
 }
+
+input[type="email"] {
+    padding: 0.2rem;
+}
