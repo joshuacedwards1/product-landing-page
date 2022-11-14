@@ -110,3 +110,11 @@ video {
     margin: 0 auto;
     border-radius: 4px;
 }
+
+#pricing {
+    width: 60%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
