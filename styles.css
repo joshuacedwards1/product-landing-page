@@ -118,3 +118,11 @@ video {
     justify-content: space-around;
     align-items: center;
 }
+
+.prices {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 1px solid  #302f2f;
+    padding: 1rem;
+}
