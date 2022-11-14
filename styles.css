@@ -91,3 +91,7 @@ input[type="submit"] {
     width: 60%;
     margin: 1.8rem auto;
 }
+
+.features {
+    margin: 3rem;
+}
