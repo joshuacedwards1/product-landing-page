@@ -15,7 +15,6 @@ header {
     display: flex;
     position: fixed;
     top: 0;
-    padding: 0;
     min-height: 4rem;
     justify-content: space-around;
     align-items: center;
