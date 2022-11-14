@@ -105,8 +105,8 @@ input[type="submit"] {
 video {
     display: block;
     height: auto;
-    max-width: 100%;
-    width: 40rem;
+    max-width: 40%;
+    min-width: 18rem;
     margin: 0 auto;
     border-radius: 4px;
 }
