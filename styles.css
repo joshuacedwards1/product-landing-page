@@ -96,6 +96,12 @@ input[type="submit"] {
     margin: 3rem;
 }
 
+#parachute-video {
+    width: 60%;
+    margin: 1.8rem auto;
+    padding: 0 2rem;
+}
+
 video {
     display: block;
     height: auto;
