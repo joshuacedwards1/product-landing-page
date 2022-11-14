@@ -64,7 +64,7 @@ form {
     display: flex;
     flex-direction: column;
     width: 40%;
-    min-width: 8rem;
+    min-width: 10rem;
     margin: 0.5rem auto;
     gap: 0.5rem;
 }
