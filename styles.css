@@ -122,6 +122,8 @@ video {
 .prices {
     display: flex;
     flex-direction: column;
+    max-height: 20rem;
+    height: 20rem;
     text-align: center;
     border: 1px solid  #302f2f;
     padding: 1rem;
