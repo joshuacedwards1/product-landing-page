@@ -40,7 +40,6 @@ nav {
     display: flex;
     justify-content: space-around;
     padding-top: 0.2rem;
-    width: 100%;
 }
 
 ul {
