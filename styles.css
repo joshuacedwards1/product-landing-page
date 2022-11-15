@@ -116,3 +116,11 @@ video {
     padding: 0 1rem;
     margin: 0 0 3rem 0;
 }
+
+#pricing {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 0 2rem;
+}
