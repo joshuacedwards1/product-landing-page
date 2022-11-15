@@ -82,3 +82,12 @@ input[type="email"] {
     border: 2px solid #1d1b1b;
     border-radius: 0.5rem;
 }
+
+input[type="submit"] {
+    height: 2rem;
+    width: 8rem;
+    color: #fafafa;
+    background-color: #1d1b1b;
+    border: 2px solid #1d1b1b;
+    border-radius: 0.5rem;
+}
