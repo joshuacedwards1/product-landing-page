@@ -149,3 +149,9 @@ video {
     background-color: #d3d0d0;
     font-weight: 600;
 }
+
+.prices h2 {
+    margin: 0 0 1rem 0;
+    font-size: 1.4rem;
+    font-weight: 900;
+}
