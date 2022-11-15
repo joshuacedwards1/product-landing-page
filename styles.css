@@ -102,3 +102,9 @@ input[type="submit"] {
     max-width: 30rem;
     margin: 0 0 3rem 0;
 }
+
+.features {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
