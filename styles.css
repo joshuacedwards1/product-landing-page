@@ -110,6 +110,10 @@ input[type="submit"] {
     gap: 0.3rem;
 }
 
+.features h2 {
+    text-align: center;
+}
+
 video {
     height: auto;
     max-width: 100%;
