@@ -30,3 +30,9 @@ img {
     width: 25rem;
     min-width: 12rem;
 }
+
+#nav-ul {
+    display: flex;
+    justify-content: space-around;
+    width: 40vw;
+}
