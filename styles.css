@@ -23,3 +23,10 @@ header {
 figure {
     width: 60vw;
 }
+
+img {
+    height: auto;
+    max-width: 100%;
+    width: 25rem;
+    min-width: 12rem;
+}
