@@ -112,11 +112,12 @@ video {
 }
 
 #pricing {
-    width: 100%;
+    width: 40vw;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 0 2rem;
+    margin: 5.5rem auto;
 }
 
 .prices {
