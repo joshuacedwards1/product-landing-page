@@ -108,3 +108,11 @@ input[type="submit"] {
     flex-direction: column;
     gap: 0.3rem;
 }
+
+video {
+    height: auto;
+    max-width: 100%;
+    width: 32rem;
+    padding: 0 1rem;
+    margin: 0 0 3rem 0;
+}
