@@ -72,3 +72,13 @@ form {
     gap: 0.8rem;
     margin: 0.8rem 0 0 0; 
 }
+
+input[type="email"] {
+    height: 2rem;
+    width: 15rem;
+    padding: 0.4rem;
+    background-color: #1d1b1b;
+    color: #fafafa;
+    border: 2px solid #1d1b1b;
+    border-radius: 0.5rem;
+}
