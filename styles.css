@@ -65,3 +65,10 @@ main {
 h1 {
     font-size: 1.8rem;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    margin: 0.8rem 0 0 0; 
+}
