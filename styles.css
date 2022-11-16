@@ -178,3 +178,8 @@ video {
 button:active {
     transform: scale(1.2);
 }
+
+footer {
+    padding: 1rem;
+    background-color: #d3d0d0;
+}
