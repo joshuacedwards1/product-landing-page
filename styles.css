@@ -124,6 +124,7 @@ video {
 
 #pricing {
     display: flex;
+    flex-flow: row wrap;
     justify-content: space-around;
     align-items: center;
     gap: 1.5rem;
