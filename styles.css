@@ -109,11 +109,8 @@ input[type="submit"] {
 .features {
     display: flex;
     flex-direction: column;
-    gap: 0.3rem;
-}
-
-.features h2 {
     text-align: center;
+    gap: 0.3rem;
 }
 
 video {
