@@ -134,6 +134,7 @@ video {
 .prices {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     align-items: center;
     text-align: center;
     width: calc(60rem / 3);
@@ -145,14 +146,12 @@ video {
 
 .shaded-top {
     width: 100%;
-    margin: 0 0 0.7rem 0;
     padding: 1rem;
     background-color: #d3d0d0;
     font-weight: 600;
 }
 
 .prices h2 {
-    margin: 0 0 1rem 0;
     font-size: 1.4rem;
     font-weight: 900;
 }
