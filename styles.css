@@ -139,7 +139,7 @@ video {
     text-align: center;
     width: calc(60rem / 3);
     max-height: 20rem;
-    height: 16rem;
+    height: 18rem;
     border: 2px solid #1d1b1b;
     border-radius: 0.3rem;
 }
@@ -171,4 +171,5 @@ video {
     border-radius: 0.3rem;
     background-color: #1d1b1b;
     color: #fafafa;
+    cursor: pointer;
 }
