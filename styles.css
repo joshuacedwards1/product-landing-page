@@ -173,3 +173,7 @@ video {
     color: #fafafa;
     cursor: pointer;
 }
+
+button:active {
+    transform: scale(1.2);
+}
