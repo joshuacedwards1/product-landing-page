@@ -183,3 +183,10 @@ footer {
     padding: 1rem;
     background-color: #d3d0d0;
 }
+
+footer ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    gap: 1rem;
+}
